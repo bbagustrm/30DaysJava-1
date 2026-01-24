@@ -1,4 +1,4 @@
-package Day1_InheritanceComposition;
+package Day1_Inheritance_Composition;
 
 public class Product {
     private String name;

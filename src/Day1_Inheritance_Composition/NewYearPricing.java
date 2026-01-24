@@ -1,4 +1,4 @@
-package Day1_InheritanceComposition;
+package Day1_Inheritance_Composition;
 
 public class NewYearPricing implements PricingStrategy{
     private double newYearPrecentage;

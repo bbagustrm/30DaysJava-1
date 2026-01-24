@@ -1,4 +1,4 @@
-package Day1_InheritanceComposition;
+package Day1_Inheritance_Composition;
 
 public class TaxPricing implements PricingStrategy{
     private double taxPrecentage;
